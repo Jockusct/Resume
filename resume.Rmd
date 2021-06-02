@@ -55,10 +55,10 @@ tribble(
 ```{r skills}
 tribble(
   ~ area, ~ skill,
- "Programming Langauges","R, SAS, SQL, Javascript, Python",
+ "Programming Langauges","R, SAS, SQL, Javascript, Python, Tableau",
  "Microsoft Office", "Excel, Word, Powerpoint",
  "Version Control" , "Git",
- "Data Analysis", "Data Cleaning, Visualisation, Modeling, Machine Learning, Web Scraping ",
+ "Data Analysis", "Data Cleaning, Visualization, Modeling, Machine Learning, Web Scraping, R Shiny ",
     "Strong analytical and problem-solving skills", "",
     "Team-Player with excellent communication skills", "",
     "Strong desire to learn", ""
